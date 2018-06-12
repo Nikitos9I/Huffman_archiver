@@ -1,0 +1,3 @@
+/Users/nikitos/CLionProjects/huffman_archivator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nikitos/CLionProjects/huffman_archivator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nikitos/CLionProjects/huffman_archivator/cmake-build-debug/CMakeFiles/huffman_archivator.dir
