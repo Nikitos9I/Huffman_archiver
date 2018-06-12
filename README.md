@@ -2,7 +2,7 @@
 
 You can use the **tester** class to check the work of the archiver.
 
-Initial point -- _main.cpp_
+Initial point –— _main.cpp_
 
 ## For using
 
